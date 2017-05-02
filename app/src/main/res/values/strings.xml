@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="test">test</string>
+    <string name="itemtitle">Activity</string>
+    <string name="fragment">Fragment</string>
+    <string name="openDialog">dialog</string>
+    <string name="messageSimpleDialog">simpleDialog</string>
+</resources>
